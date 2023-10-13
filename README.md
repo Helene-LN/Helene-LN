@@ -7,4 +7,4 @@
 * 🏀 Basket-ball player and cat lover🐱.
 * 🦋 Ex-biologist, I chose to live my passion for IT development to the full.🚀
 
-*Here you can reach me, on [Linkedin](wwww.linkedin.com/in/hélène-léonard-072219184).*
+*Here you can reach me, on [Linkedin](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-l%C3%A9onard-072219184/).*

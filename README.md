@@ -5,7 +5,7 @@
 * 🏀 Basket-ball player and cat lover🐱.
 * 🦋 Ex-biologist, I chose to live my passion for IT development to the full.🚀
 
-  🔥🔥🔥Fresh new Developer full stack !🔥🔥🔥
+  * 🔥🔥🔥Fresh new Developer full stack !🔥🔥🔥 *
 
 *Here you can reach me, on [Linkedin](www.linkedin.com/in/hélène-léonard-c-angular-html-css-javascript-typesript-sql).*
 

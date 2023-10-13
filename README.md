@@ -7,9 +7,7 @@
 * 🏀 Basket-ball player and cat lover🐱.
 * 🦋 Ex-biologist, I chose to live my passion for IT development to the full.🚀
 
-*Here you can reach me, on [Linkedin](www.linkedin.com/in/hélène-léonard-072219184).*
-This site was built using [GitHub Pages](https://pages.github.com/).
-<!--
+*Here you can reach me, on [Linkedin](wwww.linkedin.com/in/hélène-léonard-072219184).*<!--
 **Helene-Pro/Helene-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

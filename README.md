@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-👩 I am Helen. 23 years old, 🇫🇷 woman living in 🇧🇪. 
-💻 .NET/Angular Developer, currently training at Technobel.
-🏀 Basket-ball player and cat lover🐱.
-🦋 Ex-biologist, I chose to live my passion for IT development to the full.🚀
+*👩 I am Helen. 23 years old, 🇫🇷 woman living in 🇧🇪. 
+*💻 .NET/Angular Developer, currently training at Technobel.
+*🏀 Basket-ball player and cat lover🐱.
+*🦋 Ex-biologist, I chose to live my passion for IT development to the full.🚀
 
-🔥🔥🔥Fresh new Developer full stack !🔥🔥🔥
+*🔥🔥🔥Fresh new Developer full stack !🔥🔥🔥
+
+*Here you can reach me, on [Linkedin](www.linkedin.com/in/hélène-léonard-072219184).*
 
 <!--
 **Helene-Pro/Helene-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

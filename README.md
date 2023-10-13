@@ -7,7 +7,7 @@
 
 *🔥🔥🔥Fresh new Developer full stack !🔥🔥🔥
 
-*Here you can reach me, on [Linkedin](www.linkedin.com/in/hélène-léonard-072219184).*
+*Here you can reach me, on [Linkedin](www.linkedin.com/in/hélène-léonard-072219184/).*
 
 <!--
 **Helene-Pro/Helene-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

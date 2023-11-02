@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥🔥🔥Fresh new Developer full stack !🔥🔥🔥<br><br>    👩 I am Helen. 23 years old, 🇫🇷 woman living in 🇧🇪.<br>    💻 .NET/Angular Developer, currently training at Technobel.<br>    🏀 Basket-ball player and cat lover🐱.<br>    🦋 Ex-biologist, I chose to live my passion for IT development to the full.🚀<br>
+🔥🔥🔥New Developer full stack !🔥🔥🔥<br><br>    👩 I am Helen. 23 years old, 🇫🇷 woman living in 🇧🇪.<br>    💻 .NET/Angular Developer, currently training at Technobel.<br>    🏀 Basket-ball player and cat lover🐱.<br>    🦋 Ex-biologist, I chose to live my passion for IT development to the full.🚀<br>
 
 
 ## 🌐 Socials:

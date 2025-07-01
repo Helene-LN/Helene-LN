@@ -1,4 +1,4 @@
-# 💫 Hello there  
+# 💫 ![Obi-Wan GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyejUzc3FsdmJsbGs2eHpyeHFpZmk4bnZxMzl2ZXhpNHUxamdobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif)
 💻 .NET / Angular / WPF Developer  
 🏀 Basket-ball player & cat lover 🐱  
 🦋 Ex-biologist  

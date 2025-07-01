@@ -1,11 +1,10 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyejUzc3FsdmJsbGs2eHpyeHFpZmk4bnZxMzl2ZXhpNHUxamdobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Obi-Wan GIF" style="width: 100%; max-width: 600px;">
 </p>
-<p align="center">
+
 💻 .NET / Angular / WPF Developer<br>
 🏀 Basket-ball player & cat lover 🐱<br>
 🦋 Ex-biologist
-</p>
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hélène-léonard-072219184)  

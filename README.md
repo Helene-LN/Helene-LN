@@ -5,9 +5,9 @@
 ## 🌐 Socials  & about me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hélène-léonard-072219184)  
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:18px; font-weight:600;">
-💻 .NET / Angular / WPF Developer<br>
+💻 .NET / Angular / WPF Developer
 🏀 Basket-ball player 
-🐱 Cat lover <br>
+🐱 Cat lover
 🦋 Ex-biologist
 </p>
 
